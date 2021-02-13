@@ -1,0 +1,19 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": [
+        "css",
+        "markdown",
+        "javascript",
+        "graphql",
+        "html",
+        "yaml",
+        "json",
+        "python"
+    ],
+    // python config
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.jediEnabled": true,
+    "python.jediMemoryLimit": 20,
+    "python.venvPath": "~/workEnv/bin/python/",
+    "python.sortImports.path": "~/workEnv/bin/isort"
+}

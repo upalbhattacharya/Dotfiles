@@ -1,0 +1,25 @@
+[papers]
+dir = ~/ResearchArticles/
+
+[books]
+dir = ~/Books/
+
+[Aiml]
+dir = ~/ResearchArticles/Aiml/
+
+[Statistics]
+dir = ~/ResearchArticles/Statistics/
+
+[proteinFolding]
+dir = ~/ResearchArticles/ProteinFoldingDimensionReduction/
+
+[dimreduce]
+dir = ~/ResearchArticles/DimensionReduction/
+
+[settings]
+default-library = Aiml
+opentool = okular
+add-confirm = True
+editmode = vi
+
+
